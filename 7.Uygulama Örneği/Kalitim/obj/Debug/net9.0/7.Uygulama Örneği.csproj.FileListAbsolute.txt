@@ -1,0 +1,15 @@
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\bin\Debug\net9.0\7.Uygulama Örneği.exe
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\bin\Debug\net9.0\7.Uygulama Örneği.deps.json
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\bin\Debug\net9.0\7.Uygulama Örneği.runtimeconfig.json
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\bin\Debug\net9.0\7.Uygulama Örneği.dll
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\bin\Debug\net9.0\7.Uygulama Örneği.pdb
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\7.Uygulama Örneği.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\7.Uygulama Örneği.AssemblyInfoInputs.cache
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\7.Uygulama Örneği.AssemblyInfo.cs
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\7.Uygulama Örneği.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\7.Uygulama Örneği.sourcelink.json
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\7.Uygulama Örneği.dll
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\refint\7.Uygulama Örneği.dll
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\7.Uygulama Örneği.pdb
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\7.Uygulama Örneği.genruntimeconfig.cache
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\7.Uygulama Örneği\obj\Debug\net9.0\ref\7.Uygulama Örneği.dll
