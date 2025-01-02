@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\7.Uygulama Örneği.csproj": {}
+    "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\Kalitim\\7.Uygulama Örneği.csproj": {}
   },
   "projects": {
-    "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\7.Uygulama Örneği.csproj": {
+    "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\Kalitim\\7.Uygulama Örneği.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\7.Uygulama Örneği.csproj",
+        "projectUniqueName": "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\Kalitim\\7.Uygulama Örneği.csproj",
         "projectName": "7.Uygulama Örneği",
-        "projectPath": "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\7.Uygulama Örneği.csproj",
+        "projectPath": "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\Kalitim\\7.Uygulama Örneği.csproj",
         "packagesPath": "C:\\Users\\esra\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\obj\\",
+        "outputPath": "C:\\Users\\esra\\Desktop\\Nesne-Tabanl-Programlama\\7.Uygulama Örneği\\Kalitim\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",

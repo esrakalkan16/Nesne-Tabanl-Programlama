@@ -1,0 +1,15 @@
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\bin\Debug\net9.0\8. Uygulama Odevi.exe
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\bin\Debug\net9.0\8. Uygulama Odevi.deps.json
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\bin\Debug\net9.0\8. Uygulama Odevi.runtimeconfig.json
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\bin\Debug\net9.0\8. Uygulama Odevi.dll
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\bin\Debug\net9.0\8. Uygulama Odevi.pdb
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\8. Uygulama Odevi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\8. Uygulama Odevi.AssemblyInfoInputs.cache
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\8. Uygulama Odevi.AssemblyInfo.cs
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\8. Uygulama Odevi.csproj.CoreCompileInputs.cache
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\8. Uygulama Odevi.sourcelink.json
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\8. Uygulama Odevi.dll
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\refint\8. Uygulama Odevi.dll
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\8. Uygulama Odevi.pdb
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\8. Uygulama Odevi.genruntimeconfig.cache
+C:\Users\esra\Desktop\Nesne-Tabanl-Programlama\8.Uygulama Örneği\Üniversite Sistemi\obj\Debug\net9.0\ref\8. Uygulama Odevi.dll
